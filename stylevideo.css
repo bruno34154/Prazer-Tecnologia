@@ -1,0 +1,63 @@
+body{
+
+	font-family: "Arial", Serif;
+	
+	
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+	
+}
+ul li{
+	list-style: none;
+	padding-top: 20px;
+
+}
+
+.link-video{
+
+	text-decoration: none;
+	font-size: 15px;
+	color: black;
+	font-family: arial;
+	display: block;
+	padding: 15px 5px;
+
+}
+.bodyHome{
+	background-image: url("img/background.jpg");
+}
+.body-menu{
+	background-image: url("img/background.jpg");
+}
+.link-back{
+	text-decoration: none;
+	font-size: 15px;
+	color: black;
+	font-family: arial;
+	display: block;
+	padding: 10px 5px;
+}
+.title{
+	font-size: 20px;
+	color: black;
+	font-family: arial;
+}
+.title-video{
+	padding-top: 200px;
+	text-align: center;
+	font-size: 30px;
+}
+.link-video:hover{
+
+	background-color: red;
+
+}
+.link-back:hover{
+	background-color: red;
+}
+.video{
+	padding-top: 50px;
+}
