@@ -12,3 +12,5 @@ Um site web com menu lateral, lista de cursos e sala de apresentação de videos
 * HTML
 * CSS
 * JAVASCRIPT
+
+[link da aplicação aqui](https://practical-cray-7bdd58.netlify.app)
